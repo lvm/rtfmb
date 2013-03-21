@@ -12,7 +12,7 @@ USAGE
 
 > % manband.py {BAND NAME}
 
-Looks up for Pennywise and shows a temporary (using Python's tempfile module) manpage.
+Looks up for "{BAND NAME}" and shows a temporary (using Python's tempfile module) manpage.
 
 > % manband.py -s {BAND NAME}
 
