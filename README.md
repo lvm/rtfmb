@@ -10,6 +10,9 @@ There are a lot of things to improve but in the meanwhile it works fairly well.
 USAGE
 -----
 
+It is necessary to create a *settings.py* file with a *variable* called "API_KEY" with our API key provided by Echo Nest.
+
+
 > % manband.py {BAND NAME}
 
 Looks up for "{BAND NAME}" and shows a temporary (using Python's tempfile module) manpage.
